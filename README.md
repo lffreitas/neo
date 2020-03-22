@@ -14,4 +14,6 @@ Install seqtk:
 
 `sudo apt install seqtk`
 
-Requires also Python 3
+Requires also Python 3 and R
+
+Requires package "ape" for R
