@@ -19,4 +19,6 @@ Requires also Python 3 and R
 Requires package "ape" for R
 
 
-Given a a folder "fqs" with .fastq files and a "database" folder with a .fasta database of species, `./run_all.sh` outputs an OTU table with counts and a sorted table of the 50 most abundant bacteria  
+Given a a folder "fqs" with .fastq files and a "database" folder with a .fasta database of species, `./run_all.sh` outputs an OTU table with counts and a sorted table of the 50 most abundant bacteria
+
+Two R scripts are provided to get a bar plot and a PCoA plot, those should be ran manually
